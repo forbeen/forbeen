@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**forbeen/forbeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 안녕하세요👋 프론트엔드, 웹퍼블리셔 개발자를 희망하고 있는 박효빈입니다😙
+* 평범한 디자이너였던 내가 개발자까지?
+## 새로 입문한 분야인만큼 열심히 배워보겠습니다💨
+### 현재 공부중인 부분
+* HTML5 📌
+* CSS3
+* Javasrcipt
+* Jquery
+* React
+* git
